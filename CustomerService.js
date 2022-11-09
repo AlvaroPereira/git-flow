@@ -1,5 +1,5 @@
 module.exports = {
     createCustomer: async () => {
-        return [];
+        return true;
     }
 }
